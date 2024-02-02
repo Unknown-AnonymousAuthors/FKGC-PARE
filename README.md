@@ -1,4 +1,4 @@
-# WWW2024-FKGC-PARE
+# FKGC-PARE
 
 ## Steps to run the experiments
 
